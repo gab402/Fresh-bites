@@ -14,8 +14,8 @@ export const styles = StyleSheet.create({
       marginTop: 16
      },
    headerImage: {
-    width:"100%",
-    height: 200,
+    width:"110%",
+    height: 230,
     borderRadius:8
    },
 
